@@ -1,16 +1,15 @@
-## Hi there 👋
+# About Me (🇷🇺)
 
-<!--
-**FeeKyanite/FeeKyanite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет, кратко обо мне:
+Возраст: 16
+Языки: Русский(Родной), Английский(~A2 - B1)
+ЯП: C++{Основной},ASM(NASM){Второй после основого}, Python{Автоматизация}, Web{Инфо о проектах}
+Интересы: Полезные утилиты, bare-metal программирования.
+Принципы: "Любая программа должна быть открытой!"
+Цели: Выучить ЯП и внести свой вклад
 
-Here are some ideas to get you started:
+Проекты:
+KyaniteProject - 0%
+WiNTUtils - 0%
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Страница будет дополняться и улучшаться
