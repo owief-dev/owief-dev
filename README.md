@@ -27,7 +27,7 @@ Principles: "Any program should be open source!"
 Goals: Learn a language and contribute to it.  
   
 Projects: 
-KyaniteProject - 0% 
+KyaniteProject - 0%  
 WiNTUtils - 0%
   
 The page will be added and improved  
