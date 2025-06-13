@@ -18,9 +18,9 @@ WiNTUtils - 0%
 
 # About me
   
-Hi, about me briefly: 
-Age: 16 
-Languages: Russian (Native), English (~A2 - B1) 
+Hi, about me briefly:  
+Age: 16  
+Languages: Russian (Native), English (~A2 - B1)  
 Languages: C++, Nasm, Python, Web  
 Interests: Useful utilities, bare-metal programming.  
 Principles: "Any program should be open source!"  
